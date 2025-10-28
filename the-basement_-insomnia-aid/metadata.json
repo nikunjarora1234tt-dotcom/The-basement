@@ -1,0 +1,5 @@
+{
+  "name": "The Basement: Insomnia Aid",
+  "description": "A web application that presents a facade of an insomnia help website, which, upon solving a series of puzzles, reveals a hidden, encrypted dashboard for a secret organization, inspired by Fight Club.",
+  "requestFramePermissions": []
+}
