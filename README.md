@@ -1,5 +1,4 @@
 The Basement
-What We Are — The Philosophy
 
 The Basement is a hidden digital sanctuary for the disillusioned. On the surface, it appears as a sterile “Insomnia Aid” website — calm, corporate, and unremarkable. This facade is intentional. It exists to conceal what lies beneath: a covert network for those who see through the illusion of modern life.
 
